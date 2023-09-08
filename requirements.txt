@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+googletrans==4.0.0-rc1
+pytube
+faiss-cpu
+openai
+tiktoken
